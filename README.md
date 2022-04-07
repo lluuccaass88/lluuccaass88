@@ -1,15 +1,15 @@
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'lluuccaass88';
 class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
+  nome     = 'Lucas Alves';
+  area    = 'Back-end';
+  trabalho  = 'Estágio - Websul Telecom';
+  local = 'Tramandaí - RS';
 }
 class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+  linguagens  = ['Javascript, C, JAVA'];
+  bibliotecas  = ['Express'];
+  frameworks = ['REACT'];
 }
 ```
 
@@ -19,5 +19,8 @@ class Skills extends Desenvolvedor {
 
   <a href="https://www.linkedin.com/in/lucas-alves-071189185/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alves-071189185/" /></a>
+  
+  <a alt="Lattes">
+  <img src="http://lattes.cnpq.br/8810544522018532" /></a>
 
 </p> 
