@@ -20,7 +20,6 @@ class Skills extends Desenvolvedor {
   <a href="https://www.linkedin.com/in/lucas-alves-071189185/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alves-071189185/" /></a>
   
-  <a alt="Lattes">
-  <img src="http://lattes.cnpq.br/8810544522018532" /></a>
+<a href="https://www.linkedin.com/in/lucas-alves-071189185/" alt="Lattes">
 
 </p> 
