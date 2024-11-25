@@ -3,7 +3,7 @@ import Dev from 'lluuccaass88';
 class AboutMe extends Dev {
   name = 'Lucas Alves';
   area = 'Back-end';
-  work = 'Estágio de Backend - Vem ser DBC';
+  work = 'Desenvolvedor Backend - DBC Company, internalizado no Sicredi';
   local = 'Tramandaí - RS';
 }
 class Skills extends Development {
