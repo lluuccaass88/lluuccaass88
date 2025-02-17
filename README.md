@@ -9,7 +9,7 @@ class AboutMe extends Dev {
 class Skills extends Development {
   languages = ['Javascript, C, JAVA'];
   library = ['Express'];
-  frameworks = ['REACT'];
+  frameworks = ['REACT', 'SpringBoot'];
 }
 class Contact extends Desenvolvedor {
   email  = 'lucaspalves8@gmail.com';
