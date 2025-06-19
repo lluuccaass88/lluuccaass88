@@ -17,6 +17,7 @@ class Contact extends Desenvolvedor {
   lattes = 'http://lattes.cnpq.br/8810544522018532';
 }
 ```
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-
-[![lluuccaass88](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuccaass88&hide=html&layout=compact&theme=dark)](https://github.com/lluuccaass88/)
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="40" alt="Night Coding" />
+  <span>[![lluuccaass88](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuccaass88&hide=html&layout=compact&theme=dark)](https://github.com/lluuccaass88/)</span>
+</h3>
