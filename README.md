@@ -19,5 +19,5 @@ class Contact extends Desenvolvedor {
 ```
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="40" alt="Night Coding" />
-  <span>[![lluuccaass88](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuccaass88&hide=html&layout=compact&theme=dark)](https://github.com/lluuccaass88/)</span>
+  [![lluuccaass88](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuccaass88&hide=html&layout=compact&theme=dark)](https://github.com/lluuccaass88/)
 </h3>
