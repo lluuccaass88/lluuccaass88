@@ -17,4 +17,3 @@ class Contact extends Desenvolvedor {
   lattes = 'http://lattes.cnpq.br/8810544522018532';
 }
 ```
-  [![lluuccaass88](https://github-readme-stats.vercel.app/api/top-langs/?username=lluuccaass88&hide=html&layout=compact&theme=dark)](https://github.com/lluuccaass88/)
